@@ -6,6 +6,6 @@ There are two training and test samples provided with the class.
 * RealEstateTrain.csv , RealEstateTest.csv
 * SimpleTrain.csv , SimpleTest.csv
 
-### ** Program running on RealEstate example **
+###  Program running on RealEstate example 
 
 ![Image not found](https://github.com/viathus/DecisionTreeAI/blob/master/images/Result.png)
